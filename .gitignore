@@ -1,0 +1,5 @@
+#IDE
+.idea/
+
+#DATABASE
+db.sqlite3
